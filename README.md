@@ -42,12 +42,11 @@ NOTE: <i>If you have multiple wallets with seed phrases, your best to use <a hre
 
 <strong>Bridge to CRONOS</strong>
 
-- https://bridge.evodefi.com/
-- Select your native network and connect your wallet in 'From'
-- Select Cronos network in 'To'
-- Select the available token to swap.
-- Add the recipient address
-- and finally the amount your sending over and submit your transaction <i>(remember to have the gas fees required in your native original currency)</i>
+- https://app.xy.finance/
+- Select your native network and connect your wallet.
+- Select the currency in your native network (BNB, ETH USDT USDC ETC...)
+- in the swap to ta select the CRO network and the currency you want (CRO)
+- and finally the amount your sending over and submit your transaction <i>(remember to have the gas fees required in your native original currency & this should take around 5 mins as it has a few swaps to jump through)</i>
 
 From here once you recieve your converted token on the Cronos network, you can now buy CRO with it. on https://mm.finance.
 
